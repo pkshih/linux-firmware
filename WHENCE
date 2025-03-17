@@ -8138,6 +8138,21 @@ Originates from https://git.codelinaro.org/linaro/qcomlt/audioreach-topology.git
 
 --------------------------------------------------------------------------
 
+Driver: qcom-x1e80100 - Qualcomm ASoC tplg Firmware
+File: qcom/x1e80100/LENOVO/21N1/X1E80100-LENOVO-Thinkpad-T14s-tplg.bin
+Link: qcom/x1e80100/X1E80100-LENOVO-Thinkpad-T14s-tplg.bin -> LENOVO/21N1/X1E80100-LENOVO-Thinkpad-T14s-tplg.bin
+Version: v0.1.0
+Info: DATE=17.03.2025
+
+File: qcom/x1e80100/LENOVO/83ED/X1E80100-LENOVO-Yoga-Slim7x-tplg.bin
+Link: qcom/x1e80100/X1E80100-LENOVO-Yoga-Slim7x-tplg.bin -> LENOVO/83ED/X1E80100-LENOVO-Yoga-Slim7x-tplg.bin
+Version: v0.1.0
+Info: DATE=17.03.2025
+
+Licence: Redistributable. See LICENCE.linaro for details
+Originates from https://github.com/linux-msm/audioreach-topology.git
+
+--------------------------------------------------------------------------
 Driver: ti-tas2781 - tas2781 firmware
 File: ti/tas2781/TAS2XXX0C94.bin
 File: ti/tas2781/TAS2XXX0C95.bin
