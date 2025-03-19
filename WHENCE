@@ -6598,6 +6598,15 @@ File: qcom/sa8775p/gpdsp1.mbn
 Version: DSP.AT.1.0.1-00079.2-LEMANS-1
 RawFile: qcom/sa8775p/gpdsp1r.jsn
 RawFile: qcom/sa8775p/gpdspr.jsn
+File: qcom/qcs8300/adsp.mbn
+Version: DSP.AT.1.0.1-00096-LEMANS-1
+RawFile: qcom/qcs8300/adspr.jsn
+RawFile: qcom/qcs8300/adspua.jsn
+File: qcom/qcs8300/cdsp0.mbn
+Version: DSP.AT.1.0.1-00096-LEMANS-1
+RawFile: qcom/qcs8300/cdspr.jsn
+File: qcom/qcs8300/gpdsp0.mbn
+Version: DSP.AT.1.0.1-00096-LEMANS-1
 
 Licence: Redistributable. See LICENSE.qcom-2 and qcom/NOTICE.txt for details
 
