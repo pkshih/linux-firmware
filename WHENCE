@@ -5899,6 +5899,8 @@ File: mediatek/mt8192/scp.img
 Version: v2.0.20536
 File: mediatek/mt8195/scp.img
 Version: v2.0.21961
+File: mediatek/mt8188/scp.img
+Version: v2.0.27748
 
 Licence: Redistributable. See LICENCE.mediatek for details.
 
