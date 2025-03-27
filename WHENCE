@@ -8126,6 +8126,9 @@ File: mediatek/sof/sof-mt8188.ldc
 File: mediatek/sof-tplg/sof-mt8188.tplg
 Version: v2.8
 
+File: mediatek/sof-tplg/sof-mt8195.tplg
+Version: v2.8
+
 Licence: Redistributable. See LICENCE.mediatek for details.
 
 --------------------------------------------------------------------------
