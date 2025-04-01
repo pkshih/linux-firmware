@@ -2087,6 +2087,14 @@ Licence: Redistributable. See LICENSE.radeon for details.
 
 --------------------------------------------------------------------------
 
+Driver: as21xxx - Aeonsemi AS21x1x 1G/2.5G/5G/10G Ethernet Phy
+
+File: aeonsemi/as21x1x_fw.bin
+
+Licence: Redistributable. See LICENSE.aeonsemi for details.
+
+--------------------------------------------------------------------------
+
 Driver: en8811h - Airoha 2.5G Ethernet Phy
 
 File: airoha/EthMD32.dm.bin
