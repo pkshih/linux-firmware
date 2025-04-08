@@ -4781,9 +4781,17 @@ File: qca/QCA2066/rampatch_usb_00130201.bin
 Version: BTFW.HSP.2.1.0-00653-VER_PATCHZ-3
 File: qca/QCA2066/nvm_usb_00130201_030a.bin
 File: qca/QCA2066/nvm_usb_00130201_gf_030a.bin
-Version: BTFW.HAMILTON.2.0.0-00515-USB_PATCHZ-2
+Version: BTFW.HAMILTON.2.0.0-00790-USB_PATCHZ-3
 File: qca/nvm_usb_00190200.bin
+File: qca/nvm_usb_00190200_0104.bin
+File: qca/nvm_usb_00190200_0106.bin
+File: qca/nvm_usb_00190200_0108.bin
+File: qca/nvm_usb_00190200_0109.bin
+File: qca/nvm_usb_00190200_010a.bin
+File: qca/nvm_usb_00190200_010c.bin
 File: qca/nvm_usb_00190200_010e.bin
+File: qca/nvm_usb_00190200_0110.bin
+File: qca/nvm_usb_00190200_0111.bin
 File: qca/nvm_usb_00190200_0112.bin
 
 Licence: Redistributable. See LICENSE.QualcommAtheros_ath10k and qca/NOTICE.txt for details
