@@ -6563,6 +6563,8 @@ File: qcom/sc8280xp/LENOVO/21BX/qccdsp8280.mbn
 Version: CDSP.HT.2.6-00698-MAKENA-1
 File: qcom/sc8280xp/LENOVO/21BX/qcslpi8280.mbn
 Version: SLPI.HY.4.1-00048-MAKENA-1
+File: qcom/x1e80100/LENOVO/21N1/qcvss8380.mbn
+Version: vfw-3.1:rel0085-070fa3311d9ef968015fee7fea07198d7eb208a1
 File: qcom/x1e80100/adsp.mbn
 File: qcom/x1e80100/adsp_dtb.mbn
 Version: ADSP.HT.5.9-00796-HAMOA-1
@@ -6582,6 +6584,21 @@ Version: CDSP.HT.2.9-00447-HAMOA-2
 RawFile: qcom/x1e80100/LENOVO/21N1/cdspr.jsn
 File: qcom/x1e80100/LENOVO/21N1/qcdxkmsuc8380.mbn
 RawFile: qcom/x1e80100/LENOVO/21N1/battmgr.jsn
+File: qcom/x1e80100/LENOVO/83ED/adsp_dtbs.elf
+RawFile: qcom/x1e80100/LENOVO/83ED/adspr.jsn
+RawFile: qcom/x1e80100/LENOVO/83ED/adsps.jsn
+RawFile: qcom/x1e80100/LENOVO/83ED/adspua.jsn
+RawFile: qcom/x1e80100/LENOVO/83ED/battmgr.jsn
+RawFile: qcom/x1e80100/LENOVO/83ED/cdspr.jsn
+File: qcom/x1e80100/LENOVO/83ED/qcadsp8380.mbn
+Version: ADSP.HT.5.9.c1-00059-HAMOA-1
+File: qcom/x1e80100/LENOVO/83ED/qcav1e8380.mbn
+Version: CDSP.HT.2.9.c2-00051-HAMOA-1
+File: qcom/x1e80100/LENOVO/83ED/qccdsp8380.mbn
+Version: CDSP.HT.2.9.c2-00051-HAMOA-1
+File: qcom/x1e80100/LENOVO/83ED/qcdxkmsuc8380.mbn
+File: qcom/x1e80100/LENOVO/83ED/qcvss8380.mbn
+Version: video-firmware.3.1-e5aea20c64cb6df9a1c9be99e206053b36424939
 
 Licence: Redistributable. See LICENSE.qcom and qcom/NOTICE.txt for details
 
