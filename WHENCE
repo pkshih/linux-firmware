@@ -8471,7 +8471,7 @@ Driver: ish - Intel Integrated Sensor Hub
 File: intel/ish/ish_lnlm.bin
 Version: 5.8.0.7716
 
-License: Redistributable. See LICENCE.ish for details
+License: Redistributable. See LICENSE.intel for details
 
 --------------------------------------------------------------------------
 
