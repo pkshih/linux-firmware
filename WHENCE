@@ -8498,3 +8498,12 @@ Version: ci_tag_ud202512_vpu_rc_20250306_1130
 Link: intel/vpu/vpu_40xx_v0.0.bin -> vpu_40xx_v1.bin
 
 License: Redistributable. See LICENSE.intel_vpu for details
+
+--------------------------------------------------------------------------
+
+Driver: bmi260 - Bosch BMI260 IMU configuration data
+File: bmi260-init-data.fw
+
+License: Redistributable. See LICENSE.bmi260 for details
+
+Originates from https://source.chromium.org/chromiumos/chromiumos/codesearch/+/main:src/platform/ec/third_party/bmi260/accelgyro_bmi260_config_tbin.h
