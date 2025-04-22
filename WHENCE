@@ -8507,3 +8507,10 @@ File: bmi260-init-data.fw
 License: Redistributable. See LICENSE.bmi260 for details
 
 Originates from https://source.chromium.org/chromiumos/chromiumos/codesearch/+/main:src/platform/ec/third_party/bmi260/accelgyro_bmi260_config_tbin.h
+
+---------------------------------------------------------------------------
+
+Driver: qcs9100 - Qualcomm QUPv3 firmware image file
+File: qcom/sa8775p/qupv3fw.elf
+
+License: Redistributable. See LICENSE.qcom and qcom/NOTICE.txt for details
