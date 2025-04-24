@@ -3926,7 +3926,7 @@ File: ath11k/IPQ5018/hw1.0/q6_fw.b13
 File: ath11k/IPQ5018/hw1.0/q6_fw.b14
 File: ath11k/IPQ5018/hw1.0/q6_fw.flist
 File: ath11k/IPQ5018/hw1.0/q6_fw.mdt
-Version: WLAN.HK.2.6.0.1-01291-QCAHKSWPL_SILICONZ-1
+Version: WLAN.HK.2.6.0.1-01300-QCAHKSWPL_SILICONZ-1
 File: ath11k/IPQ5018/hw1.0/Notice.txt
 File: ath11k/QCA2066/hw2.1/board-2.bin
 File: ath11k/QCA2066/hw2.1/amss.bin
@@ -3955,7 +3955,7 @@ Driver: ath12k - Qualcomm Technologies Wi-Fi 7 chipset support
 File: ath12k/WCN7850/hw2.0/board-2.bin
 File: ath12k/WCN7850/hw2.0/amss.bin
 File: ath12k/WCN7850/hw2.0/m3.bin
-Version: WLAN.HMT.1.0.c5-00481-QCAHMTSWPL_V1.0_V2.0_SILICONZ-3
+Version: WLAN.HMT.1.1.c5-00284-QCAHMTSWPL_V1.0_V2.0_SILICONZ-3
 File: ath12k/WCN7850/hw2.0/Notice.txt
 File: ath12k/QCN9274/hw2.0/board-2.bin
 File: ath12k/QCN9274/hw2.0/firmware-2.bin
