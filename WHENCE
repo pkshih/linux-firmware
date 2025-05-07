@@ -2782,6 +2782,8 @@ Driver: amd_pmf - AMD Platform Management Framework TA
 
 File: amdtee/773bd96f-b83f-4d52-b12dc529b13d8543.bin
 Link: amdtee/amd_pmf_v3.bin -> 773bd96f-b83f-4d52-b12dc529b13d8543.bin
+File: amdtee/f29bb3d9-bd66-5441-afb88acc2b2b60d6.bin
+Link: amdtee/amd_pmf_v3_1.bin -> f29bb3d9-bd66-5441-afb88acc2b2b60d6.bin
 
 Licence: Redistributable. See LICENSE.amd_pmf for details.
 
