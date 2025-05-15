@@ -3632,6 +3632,9 @@ Version: 0.0.4
 File: rtl_nic/rtl8126a-3.fw
 Version: 0.0.5
 
+File: rtl_nic/rtl8127a-1.fw
+Version: 0.0.5
+
 Licence:
  * Copyright © 2011-2013, Realtek Semiconductor Corporation
  *
