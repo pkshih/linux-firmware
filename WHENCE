@@ -8630,7 +8630,8 @@ Originates from https://source.chromium.org/chromiumos/chromiumos/codesearch/+/m
 
 ---------------------------------------------------------------------------
 
-Driver: qcs9100 - Qualcomm QUPv3 firmware image file
+Driver: QUPv3 - Qualcomm QUPv3 firmware image file
 File: qcom/sa8775p/qupv3fw.elf
+File: qcom/qcm6490/qupv3fw.elf
 
 License: Redistributable. See LICENSE.qcom and qcom/NOTICE.txt for details
