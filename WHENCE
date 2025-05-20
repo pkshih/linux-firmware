@@ -6989,9 +6989,17 @@ https://github.com/SiliconLabs/wfx-linux-tools
 
 --------------------------------------------------------------------------
 
-Driver: wave5 - Chips&Media, Inc. video codec driver
+Driver: wave5 - Chips&Media, Inc. Wave5 video codec driver
 
 File: cnm/wave521c_k3_codec_fw.bin
+
+Licence: Redistributable. See LICENCE.cnm for details.
+
+--------------------------------------------------------------------------
+
+Driver: wave6 - Chips&Media, Inc. Wave6 video codec driver
+
+File: cnm/wave633c_imx9_codec_fw.bin
 
 Licence: Redistributable. See LICENCE.cnm for details.
 
