@@ -6226,7 +6226,7 @@ Licence: Redistributable. See LICENCE.mediatek for details.
 Driver: mt7925 - MediaTek MT7925 bluetooth chipset
 
 File: mediatek/mt7925/BT_RAM_CODE_MT7925_1_1_hdr.bin
-Version: 20250425073330
+Version: 20250526153203
 
 Licence: Redistributable. See LICENCE.mediatek for details.
 
