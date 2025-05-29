@@ -4158,7 +4158,7 @@ File: intel/ibt-18-16-1.sfi
 File: intel/ibt-18-16-1.ddc
 File: intel/ibt-18-2.sfi
 File: intel/ibt-18-2.ddc
-Version: BT_Pulsar_REL20425_22.20.2412.20425
+Version: BT_Pulsar_REL20451_22.20.2433.20451
 
 File: intel/ibt-17-0-1.sfi
 Version: BT_JeffersonPeak_A0_B0_REL0201
@@ -4190,45 +4190,45 @@ Version: BT_CyclonePeak_A0_REL53636
 File: intel/ibt-20-1-4.ddc
 Version: BT_CyclonePeak_A0_REL53636
 File: intel/ibt-19-0-0.sfi
-Version: BT_Quasar_REL53497
+Version: BT_Quasar_REL53697
 File: intel/ibt-19-0-0.ddc
-Version: BT_Quasar_REL53497
+Version: BT_Quasar_REL53697
 File: intel/ibt-19-0-1.sfi
-Version: BT_Quasar_REL53497
+Version: BT_Quasar_REL53697
 File: intel/ibt-19-0-1.ddc
-Version: BT_Quasar_REL53497
+Version: BT_Quasar_REL53697
 File: intel/ibt-19-0-3.sfi
-Version: BT_Quasar_REL53263
+Version: BT_Quasar_REL53697
 File: intel/ibt-19-0-3.ddc
-Version: BT_Quasar_REL53263
+Version: BT_Quasar_REL53697
 File: intel/ibt-19-0-4.sfi
-Version: BT_HarrisonPeak_REL53636
+Version: BT_HarrisonPeak_REL53697
 File: intel/ibt-19-0-4.ddc
-Version: BT_HarrisonPeak_REL53636
+Version: BT_HarrisonPeak_REL53697
 File: intel/ibt-19-16-4.sfi
-Version: BT_HarrisonPeak_REL53636
+Version: BT_HarrisonPeak_REL53697
 File: intel/ibt-19-16-4.ddc
-Version: BT_HarrisonPeak_REL53636
+Version: BT_HarrisonPeak_REL53697
 File: intel/ibt-19-32-1.sfi
-Version: BT_HarrisonPeak_REL53636
+Version: BT_HarrisonPeak_REL53697
 File: intel/ibt-19-32-1.ddc
-Version: BT_HarrisonPeak_REL53636
+Version: BT_HarrisonPeak_REL53697
 File: intel/ibt-19-32-0.sfi
-Version: BT_HarrisonPeak_REL53636
+Version: BT_HarrisonPeak_REL53697
 File: intel/ibt-19-32-0.ddc
-Version: BT_HarrisonPeak_REL53636
+Version: BT_HarrisonPeak_REL53697
 File: intel/ibt-19-32-4.sfi
-Version: BT_HarrisonPeak_REL53636
+Version: BT_HarrisonPeak_REL53697
 File: intel/ibt-19-32-4.ddc
-Version: BT_HarrisonPeak_REL53636
+Version: BT_HarrisonPeak_REL53697
 File: intel/ibt-19-240-1.sfi
-Version: BT_HarrisonPeak_REL53636
+Version: BT_HarrisonPeak_REL53697
 File: intel/ibt-19-240-1.ddc
-Version: BT_HarrisonPeak_REL53636
+Version: BT_HarrisonPeak_REL53697
 File: intel/ibt-19-240-4.sfi
-Version: BT_HarrisonPeak_REL53636
+Version: BT_HarrisonPeak_REL53697
 File: intel/ibt-19-240-4.ddc
-Version: BT_HarrisonPeak_REL53636
+Version: BT_HarrisonPeak_REL53697
 
 File: intel/ibt-0041-0041.sfi
 File: intel/ibt-0041-0041.ddc
@@ -4244,7 +4244,7 @@ File: intel/ibt-0040-1050.sfi
 File: intel/ibt-0040-1050.ddc
 File: intel/ibt-1040-1050.sfi
 File: intel/ibt-1040-1050.ddc
-Version: BT_Solar_REL81864_23.50.24483.81864
+Version: BT_Solar_REL82008_23.50.25133.82008
 
 File: intel/ibt-0040-1020.sfi
 File: intel/ibt-0040-1020.ddc
@@ -4266,7 +4266,7 @@ File: intel/ibt-0093-4150.sfi
 File: intel/ibt-0093-4150.ddc
 File: intel/ibt-0093-1050.sfi
 File: intel/ibt-0093-1050.ddc
-Version: BT_BlazarU_S_REL76693_23.120.25071.76693
+Version: BT_BlazarU_S_REL82313_23.140.25182.82313
 
 File: intel/ibt-0180-0041.sfi
 File: intel/ibt-0180-0041.ddc
@@ -4274,7 +4274,7 @@ File: intel/ibt-0180-4150.sfi
 File: intel/ibt-0180-4150.ddc
 File: intel/ibt-0180-1050.sfi
 File: intel/ibt-0180-1050.ddc
-Version: BT_Magnetar_REL103604_23.50.24483.103604
+Version: BT_Magnetar_REL103831_23.50.25133.103831
 
 File: intel/ibt-0190-0291.sfi
 File: intel/ibt-0190-0291-iml.sfi
@@ -4290,7 +4290,7 @@ File: intel/ibt-0190-0291-pci.ddc
 File: intel/ibt-0190-0291-pci.sfi
 File: intel/ibt-0190-0291-usb.ddc
 File: intel/ibt-0190-0291-usb.sfi
-Version: BT_BlazarI_S_REL82746_23.120.25071.82746
+Version: BT_BlazarI_S_REL90142_23.140.25182.90142
 
 Licence: Redistributable. See LICENCE.ibt_firmware for details
 
