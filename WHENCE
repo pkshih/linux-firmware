@@ -1299,6 +1299,17 @@ Licence: Redistributable. See LICENSE.ivsc for details
 
 --------------------------------------------------------------------------
 
+Driver: intel-ipu7-isys - Intel IPU7 (Image Processing Unit 7) driver
+
+File: intel/ipu/ipu7_fw.bin
+Version: master_release_20240628_1854
+
+File: intel/ipu/ipu7ptl_fw.bin
+Version: master_release_20250515_1232
+
+Licence: Redistributable. See LICENSE.intel for details
+
+--------------------------------------------------------------------------
 Driver: mei-vsc-hw - Intel Visual Sensing Controller
 
 File: intel/vsc/ivsc_fw.bin
