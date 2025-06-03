@@ -5374,7 +5374,7 @@ File: i915/dg2_guc_70.4.1.bin
 Version: GuC API/APB ver 70.4.1 for DG2
 
 File: i915/dg2_guc_70.bin
-Version: GuC API/APB ver 70.44.1 for DG2
+Version: GuC API/APB ver 70.45.2 for DG2
 
 File: i915/dg2_huc_gsc.bin
 Version: HuC API/APB ver 7.10.16 for DG2
@@ -5418,16 +5418,16 @@ License: Redistributable. See LICENSE.i915 for details
 Driver: xe -- Intel Graphics driver
 
 File: xe/lnl_gsc_1.bin
-Version: GSC API/APB v1.0, release 104.0.0.1263, SVN 1 for Lunarlake
+Version: GSC API/APB v1.0, release 104.0.5.1429, SVN 1 for Lunarlake
 
 File: xe/lnl_guc_70.bin
-Version: GuC API/APB ver 70.44.1 for Lunarlake
+Version: GuC API/APB ver 70.45.2 for Lunarlake
 
 File: xe/lnl_huc.bin
 Version: HuC API/APB ver 9.4.13 for Lunarlake
 
 File: xe/bmg_guc_70.bin
-Version: GuC API/APB ver 70.44.1 for Battlemage
+Version: GuC API/APB ver 70.45.2 for Battlemage
 
 File: xe/bmg_huc.bin
 Version: HuC API/APB ver 8.2.10 for Battlemage
