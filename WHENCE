@@ -6550,6 +6550,9 @@ File: qcom/sa8775p/a663_zap.mbn
 File: qcom/qcs615/a612_zap.mbn
 File: qcom/a623_gmu.bin
 File: qcom/qcs8300/a623_zap.mbn
+File: qcom/gen71500_gmu.bin
+File: qcom/gen71500_sqe.fw
+File: qcom/x1p42100/gen71500_zap.mbn
 
 Licence: Redistributable. See LICENSE.qcom and qcom/NOTICE.txt for details
 
