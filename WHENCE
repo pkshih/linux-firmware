@@ -2386,6 +2386,7 @@ File: amdgpu/vega12_uvd.bin
 File: amdgpu/vega12_vce.bin
 File: amdgpu/vega20_asd.bin
 File: amdgpu/vega20_ce.bin
+File: amdgpu/vega20_ip_discovery.bin
 File: amdgpu/vega20_me.bin
 File: amdgpu/vega20_mec.bin
 File: amdgpu/vega20_mec2.bin
