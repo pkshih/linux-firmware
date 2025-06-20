@@ -2402,6 +2402,7 @@ File: amdgpu/vega20_ta.bin
 File: amdgpu/raven_asd.bin
 File: amdgpu/raven_ce.bin
 File: amdgpu/raven_gpu_info.bin
+File: amdgpu/raven_ip_discovery.bin
 File: amdgpu/raven_me.bin
 File: amdgpu/raven_mec.bin
 File: amdgpu/raven_mec2.bin
