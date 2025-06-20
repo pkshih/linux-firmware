@@ -2429,6 +2429,7 @@ File: amdgpu/picasso_ta.bin
 File: amdgpu/raven2_asd.bin
 File: amdgpu/raven2_ce.bin
 File: amdgpu/raven2_gpu_info.bin
+File: amdgpu/raven2_ip_discovery.bin
 File: amdgpu/raven2_me.bin
 File: amdgpu/raven2_mec.bin
 File: amdgpu/raven2_mec2.bin
