@@ -2529,6 +2529,7 @@ File: amdgpu/navy_flounder_ta.bin
 File: amdgpu/navy_flounder_vcn.bin
 File: amdgpu/arcturus_asd.bin
 File: amdgpu/arcturus_gpu_info.bin
+File: amdgpu/arcturus_ip_discovery.bin
 File: amdgpu/arcturus_mec2.bin
 File: amdgpu/arcturus_mec.bin
 File: amdgpu/arcturus_rlc.bin
