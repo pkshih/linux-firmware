@@ -2357,6 +2357,7 @@ File: amdgpu/vega10_acg_smc.bin
 File: amdgpu/vega10_asd.bin
 File: amdgpu/vega10_ce.bin
 File: amdgpu/vega10_gpu_info.bin
+File: amdgpu/vega10_ip_discovery.bin
 File: amdgpu/vega10_me.bin
 File: amdgpu/vega10_mec.bin
 File: amdgpu/vega10_mec2.bin
