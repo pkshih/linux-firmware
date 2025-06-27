@@ -6504,7 +6504,7 @@ Driver: iris - Qualcomm Iris video codec accelerator
 
 File: qcom/vpu/vpu30_p4.mbn
 
-Version: VIDEO.VPU.3.1-0076
+Version: VIDEO.VPU.3.1-0092
 
 File: qcom/vpu/vpu30_p4_s6.mbn
 
