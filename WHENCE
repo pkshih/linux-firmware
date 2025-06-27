@@ -61,7 +61,7 @@ File: advansys/3550.bin
 File: advansys/38C0800.bin
 File: advansys/38C1600.bin
 
-Licence: BSD, no source available.
+Licence: Redistributable. See LICENCE.advansys for details
 
 Found in hex form in kernel source.
 
@@ -117,25 +117,7 @@ File: keyspan/usa49wlc.fw
 
 Converted from Intel HEX files, used in our binary representation of ihex.
 
-Original licence information:
-
-		Copyright (C) 1999-2001
-		Keyspan, A division of InnoSys Incorporated ("Keyspan")
-
-	as an unpublished work. This notice does not imply unrestricted or
-	public access to the source code from which this firmware image is
-	derived.  Except as noted below this firmware image may not be
-	reproduced, used, sold or transferred to any third party without
-	Keyspan's prior written consent.  All Rights Reserved.
-
-	Permission is hereby granted for the distribution of this firmware
-	image as part of a Linux or other Open Source operating system kernel
-	in text or binary form as required.
-
-	This firmware may not be modified and may only be used with
-	Keyspan hardware.  Distribution and/or Modification of the
-	keyspan.c driver which includes this firmware, in whole or in
-	part, requires the inclusion of this statement."
+Licence: Redistributable. See LICENCE.keyspan for details
 
 --------------------------------------------------------------------------
 
@@ -169,25 +151,7 @@ File: emi26/loader.fw
 
 Converted from Intel HEX files, used in our binary representation of ihex.
 
-Original licence information:
-/*
- * This firmware is for the Emagic EMI 2|6 Audio Interface
- *
- * The firmware contained herein is Copyright (c) 1999-2002 Emagic
- * as an unpublished work. This notice does not imply unrestricted
- * or public access to this firmware which is a trade secret of Emagic,
- * and which may not be reproduced, used, sold or transferred to
- * any third party without Emagic's written consent. All Rights Reserved.
- *
- * Permission is hereby granted for the distribution of this firmware
- * image as part of a Linux or other Open Source operating system kernel
- * in text or binary form as required.
- *
- * This firmware may not be modified and may only be used with the
- * Emagic EMI 2|6 Audio Interface. Distribution and/or Modification of
- * any driver which includes this firmware, in whole or in part,
- * requires the inclusion of this statement.
- */
+Licence: Redistributable. See LICENCE.emi26 for details
 
 --------------------------------------------------------------------------
 
@@ -291,14 +255,7 @@ Driver: dabusb - Digital Audio Broadcasting (DAB) Receiver for USB and Linux
 File: dabusb/firmware.fw
 File: dabusb/bitstream.bin
 
-Licence: Distributable
-
- * Copyright (C) 1999 BayCom GmbH
- *
- * Redistribution and use in source and binary forms, with or without
- * modification, are permitted provided that redistributions of source
- * code retain the above copyright notice and this comment without
- * modification.
+Licence: Redistributable. See LICENCE.dabusb for details
 
 --------------------------------------------------------------------------
 
@@ -458,20 +415,7 @@ File: slicoss/oasisdbgdownload.sys
 File: slicoss/oasisdownload.sys
 File: slicoss/oasisrcvucode.sys
 
-Licence:
-		Copyright (C) 1999-2009 Alacritech, Inc.
-
-	as an unpublished work. This notice does not imply unrestricted or
-	public access to the source code from which this firmware image is
-	derived.  Except as noted below this firmware image may not be
-	reproduced, used, sold or transferred to any third party without
-	Alacritech's prior written consent.  All Rights Reserved.
-
-	Permission is hereby granted for the distribution of this firmware
-	image as part of a Linux or other Open Source operating system kernel
-	in text or binary form as required.
-
-	This firmware may not be modified.
+Licence: Redistributable. See LICENCE.alacritech for details
 
 Found in hex form in kernel source.
 
@@ -482,20 +426,7 @@ Driver: sxg - Alacritech IS-NIC products
 File: sxg/saharadownloadB.sys
 File: sxg/saharadbgdownloadB.sys
 
-Licence:
-		Copyright (C) 1999-2009 Alacritech, Inc.
-
-	as an unpublished work. This notice does not imply unrestricted or
-	public access to the source code from which this firmware image is
-	derived.  Except as noted below this firmware image may not be
-	reproduced, used, sold or transferred to any third party without
-	Alacritech's prior written consent.  All Rights Reserved.
-
-	Permission is hereby granted for the distribution of this firmware
-	image as part of a Linux or other Open Source operating system kernel
-	in text or binary form as required.
-
-	This firmware may not be modified.
+Licence: Redistributable. See LICENCE.alacritech for details
 
 Found in hex form in kernel source.
 
@@ -521,12 +452,7 @@ File: cxgb3/ael2005_opt_edc.bin
 File: cxgb3/ael2005_twx_edc.bin
 File: cxgb3/ael2020_twx_edc.bin
 
-Licence:
- *	Copyright (c) 2007-2009 NetLogic Microsystems, Inc.
- *
- *	Permission is hereby granted for the distribution of this firmware
- *	data in hexadecimal or equivalent format, provided this copyright
- *	notice is accompanying it.
+Licence: Redistributable. See LICENCE.cxgb3 for details
 
 Found in hex form in kernel source.
 
@@ -588,14 +514,7 @@ File: tigon/tg3_tso.bin
 File: tigon/tg3_tso5.bin
 File: tigon/tg357766.bin
 
-Licence:
- * Firmware is:
- *	Derived from proprietary unpublished source code,
- *	Copyright (C) 2000-2013 Broadcom Corporation.
- *
- *	Permission is hereby granted for the distribution of this firmware
- *	data in hexadecimal or equivalent format, provided this copyright
- *	notice is accompanying it.
+Licence: Redistributable. See LICENCE.tigon for details
 
 Found in hex form in kernel source.
 
@@ -1364,39 +1283,7 @@ Driver: typhoon - 3cr990 series Typhoon
 
 File: 3com/typhoon.bin
 
-Licence:
-/*
- * Copyright 1999-2004 3Com Corporation.  All Rights Reserved.
- *
- * Redistribution and use in source and binary forms of the 3c990img.h
- * microcode software are permitted provided that the following conditions
- * are met:
- * 1. Redistribution of source code must retain the above copyright
- *    notice, this list of conditions and the following disclaimer.
- * 2. Redistribution in binary form must reproduce the above copyright
- *    notice, this list of conditions and the following disclaimer in the
- *    documentation and/or other materials provided with the distribution.
- * 3. The name of 3Com may not be used to endorse or promote products
- *    derived from this software without specific prior written permission
- *
- * THIS SOFTWARE IS PROVIDED BY 3COM ``AS IS'' AND ANY EXPRESS OR
- * IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
- * OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
- * IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT,
- * INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
- * NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
- * DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
- * THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
- * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
- * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
- *
- * USER ACKNOWLEDGES AND AGREES THAT PURCHASE OR USE OF THE 3c990img.h
- * MICROCODE SOFTWARE WILL NOT CREATE OR GIVE GROUNDS FOR A LICENSE BY
- * IMPLICATION, ESTOPPEL, OR OTHERWISE IN ANY INTELLECTUAL PROPERTY RIGHTS
- * (PATENT, COPYRIGHT, TRADE SECRET, MASK WORK, OR OTHER PROPRIETARY RIGHT)
- * EMBODIED IN ANY OTHER 3COM HARDWARE OR SOFTWARE EITHER SOLELY OR IN
- * COMBINATION WITH THE 3c990img.h MICROCODE SOFTWARE
- */
+Licence: Redistributable. See LICENCE.typhoon for details
 
 Found in hex form in kernel source.
 
@@ -1563,17 +1450,7 @@ File: bnx2x/bnx2x-e2-7.13.11.0.fw
 File: bnx2x/bnx2x-e2-7.13.15.0.fw
 File: bnx2x/bnx2x-e2-7.13.21.0.fw
 
-
-License:
-  Copyright (c) 2007-2011 Broadcom Corporation
-
-  This file contains firmware data derived from proprietary unpublished
-  source code, Copyright (c) 2007-2011 Broadcom Corporation.
-
-  Permission is hereby granted for the distribution of this firmware data
-  in hexadecimal or equivalent format, provided this copyright notice is
-  accompanying it.
-
+License: Redistributable. See LICENCE.bnx2x for details.
 
 Found in hex form in kernel source.
 
@@ -1587,14 +1464,7 @@ File: bnx2/bnx2-rv2p-06-6.0.15.fw
 File: bnx2/bnx2-rv2p-09-6.0.17.fw
 File: bnx2/bnx2-rv2p-09ax-6.0.17.fw
 
-Licence:
-
- This file contains firmware data derived from proprietary unpublished
- source code, Copyright (c) 2004 - 2010 Broadcom Corporation.
-
- Permission is hereby granted for the distribution of this firmware data
- in hexadecimal or equivalent format, provided this copyright notice is
- accompanying it.
+License: Redistributable. See LICENCE.bnx2 for details.
 
 Found in hex form in kernel source.
 
@@ -1802,28 +1672,9 @@ Driver: r128 - ATI Rage 128
 
 File: r128/r128_cce.bin
 
-Licence:
+Licence: MIT
 
 Copyright 2000 Advanced Micro Devices, Inc.
-
- * Permission is hereby granted, free of charge, to any person obtaining a
- * copy of this software and associated documentation files (the "Software"),
- * to deal in the Software without restriction, including without limitation
- * the rights to use, copy, modify, merge, publish, distribute, sublicense,
- * and/or sell copies of the Software, and to permit persons to whom the
- * Software is furnished to do so, subject to the following conditions:
- *
- * The above copyright notice and this permission notice (including the next
- * paragraph) shall be included in all copies or substantial portions of the
- * Software.
- *
- * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
- * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
- * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL
- * PRECISION INSIGHT AND/OR ITS SUPPLIERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
- * OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
- * ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
- * DEALINGS IN THE SOFTWARE.
 
 Found in decimal form in kernel source.
 
@@ -1859,29 +1710,9 @@ File: radeon/RV730_me.bin
 File: radeon/RV710_pfp.bin
 File: radeon/RV710_me.bin
 
-Licence:
+Licence: MIT
 
- * Copyright 2007-2009 Advanced Micro Devices, Inc.
- * All Rights Reserved.
- *
- * Permission is hereby granted, free of charge, to any person obtaining a
- * copy of this software and associated documentation files (the "Software"),
- * to deal in the Software without restriction, including without limitation
- * the rights to use, copy, modify, merge, publish, distribute, sublicense,
- * and/or sell copies of the Software, and to permit persons to whom the
- * Software is furnished to do so, subject to the following conditions:
- *
- * The above copyright notice and this permission notice (including the next
- * paragraph) shall be included in all copies or substantial portions of the
- * Software.
- *
- * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
- * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
- * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL
- * IN NO EVENT SHALL THE COPYRIGHT OWNER(S) AND/OR ITS SUPPLIERS BE
- * LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
- * OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
- * WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Copyright 2007-2009 Advanced Micro Devices, Inc.
 
 Found in hex form in kernel source.
 
@@ -4494,19 +4325,7 @@ Licence: Redistributable. See LICENCE.cw1200 for details.
 
 File: sdd_sagrad_1091_1098.bin
 
-License:
-  Copyright (c) 2011-2013 Sagrad, Inc.
-
-  This SDD ("Static Dynamic Data") file is licensed strictly for use with
-  the Sagrad WiFi modules (such as the SG901-1091/1098) that utilize the
-  cw1200 driver. There is no warranty expressed or implied about its
-  fitness for any purpose.
-
-  Permission is hereby granted for the distribution of this SDD file as
-  part of Linux or other Open Source operating system kernel in text or
-  binary form as required.
-
-  (Please note that the actual device firmware is separately licensed)
+License: Redistributable. See LICENCE.cw1200-sdd for details
 
 --------------------------------------------------------------------------
 
