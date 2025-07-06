@@ -6361,6 +6361,8 @@ Licence: Redistributable. See LICENSE.sdma_firmware for details
 
 Driver: adreno - Qualcomm Adreno GPU firmware
 
+File: qcom/leia_pfp_470.fw
+File: qcom/leia_pm4_470.fw
 File: qcom/a225_pfp.fw
 File: qcom/a225_pm4.fw
 File: qcom/a300_pfp.fw
@@ -6376,6 +6378,9 @@ File: qcom/a530_pm4.fw
 File: qcom/a530v3_gpmu.fw2
 File: qcom/apq8096/a530_zap.mbn
 Link: qcom/a530_zap.mdt -> apq8096/a530_zap.mbn
+File: qcom/qcs615/a612_zap.mbn
+File: qcom/a623_gmu.bin
+File: qcom/qcs8300/a623_zap.mbn
 File: qcom/a630_gmu.bin
 File: qcom/a630_sqe.fw
 File: qcom/sdm845/a630_zap.mbn
@@ -6387,18 +6392,13 @@ File: qcom/a660_sqe.fw
 File: qcom/qcm6490/a660_zap.mbn
 Link: qcom/qcs6490/a660_zap.mbn -> ../qcm6490/a660_zap.mbn
 Link: qcom/sm8350/a660_zap.mbn -> ../qcm6490/a660_zap.mbn
-File: qcom/a702_sqe.fw
-File: qcom/leia_pfp_470.fw
-File: qcom/leia_pm4_470.fw
+File: qcom/a663_gmu.bin
+File: qcom/sa8775p/a663_zap.mbn
 File: qcom/sc8280xp/LENOVO/21BX/qcdxkmsuc8280.mbn
+File: qcom/a702_sqe.fw
 File: qcom/gen70500_gmu.bin
 File: qcom/gen70500_sqe.fw
 File: qcom/x1e80100/gen70500_zap.mbn
-File: qcom/a663_gmu.bin
-File: qcom/sa8775p/a663_zap.mbn
-File: qcom/qcs615/a612_zap.mbn
-File: qcom/a623_gmu.bin
-File: qcom/qcs8300/a623_zap.mbn
 File: qcom/gen71500_gmu.bin
 File: qcom/gen71500_sqe.fw
 File: qcom/x1p42100/gen71500_zap.mbn
