@@ -5259,6 +5259,12 @@ Version: GuC API/APB ver 70.45.2 for Battlemage
 File: xe/bmg_huc.bin
 Version: HuC API/APB ver 8.2.10 for Battlemage
 
+File: xe/ptl_guc_70.bin
+Version: GuC API/APB ver 70.47.0 for Pantherlake
+
+File: xe/ptl_huc.bin
+Version: HuC API/APB ver 10.3.3 for Pantherlake
+
 License: Redistributable. See LICENSE.xe for details
 --------------------------------------------------------------------------
 
