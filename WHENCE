@@ -8086,6 +8086,15 @@ License: Redistributable. See LICENSE.powervr for details
 
 --------------------------------------------------------------------------
 
+Driver: qcom-qcs6490 - Qualcomm ASoC topology
+File: qcom/qcs6490/QCS6490-RB3Gen2-tplg.bin
+Version: v0.1.0
+
+Licence: Redistributable. See LICENCE.linaro for details
+Originates from https://github.com/linux-msm/audioreach-topology.git
+
+--------------------------------------------------------------------------
+
 Driver: qcom-sm8550 - Qualcomm ASoC tplg Firmware
 File: qcom/sm8550/SM8550-HDK-tplg.bin
 File: qcom/sm8550/SM8550-QRD-tplg.bin
