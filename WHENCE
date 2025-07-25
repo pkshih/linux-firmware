@@ -6200,6 +6200,10 @@ File: qcom/vpu/vpu20_p1_gen2.mbn
 
 Version: VIDEO.VPU.2.4.2-00025
 
+File: qcom/vpu/vpu35_p4.mbn
+
+Version: VIDEO.VPU.3.5-0040
+
 Licence: Redistributable. See LICENSE.qcom and qcom/NOTICE.txt for details
 
 --------------------------------------------------------------------------
