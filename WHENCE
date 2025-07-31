@@ -1927,6 +1927,15 @@ Licence: Redistributable. See LICENSE.airoha for details.
 
 --------------------------------------------------------------------------
 
+Driver: airoha-npu - Airoha Network Processor Unit driver
+
+File: airoha/en7581_npu_data.bin
+File: airoha/en7581_npu_rv32.bin
+
+Licence: Redistributable. See LICENSE.airoha for details.
+
+--------------------------------------------------------------------------
+
 Driver: amdgpu - AMD Radeon
 
 File: amdgpu/tahiti_ce.bin
