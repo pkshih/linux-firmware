@@ -8455,6 +8455,27 @@ License: Redistributable. See LICENSE.intel for details
 
 Driver: qdu100 - Qualcomm DU firmware image files
 File: qcom/qdu100/xbl_s.melf
+File: qcom/qdu100/abl_userdebug.elf
+File: qcom/qdu100/aop_devcfg.mbn
+File: qcom/qdu100/aop.mbn
+File: qcom/qdu100/cpucp.elf
+File: qcom/qdu100/efs1.bin
+File: qcom/qdu100/efs2.bin
+File: qcom/qdu100/efs3.bin
+File: qcom/qdu100/fw_csm_gsi_3.0.elf
+File: qcom/qdu100/hypvm.mbn
+File: qcom/qdu100/kernel_boot.elf
+File: qcom/qdu100/mdmddr.mbn
+File: qcom/qdu100/multi_image.mbn
+File: qcom/qdu100/multi_image_qti.mbn
+File: qcom/qdu100/qdsp6sw_dtbs.elf
+File: qcom/qdu100/qupv3fw.elf
+File: qcom/qdu100/shrm.elf
+File: qcom/qdu100/tz.mbn
+File: qcom/qdu100/uefi.elf
+File: qcom/qdu100/xbl_config.elf
+File: qcom/qdu100/xbl_ramdump.elf
+File: qcom/qdu100/zeros_1sector.bin
 
 License: Redistributable. See LICENSE.qcom and qcom/NOTICE.txt for details
 
