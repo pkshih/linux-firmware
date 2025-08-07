@@ -3752,7 +3752,7 @@ Version: WLAN.HMT.1.1.c5-00284.1-QCAHMTSWPL_V1.0_V2.0_SILICONZ-3
 File: ath12k/WCN7850/hw2.0/Notice.txt
 File: ath12k/QCN9274/hw2.0/board-2.bin
 File: ath12k/QCN9274/hw2.0/firmware-2.bin
-Version: WLAN.WBE.1.4.1-00199-QCAHKSWPL_SILICONZ-1
+Version: WLAN.WBE.1.5-01651-QCAHKSWPL_SILICONZ-1
 File: ath12k/QCN9274/hw2.0/Notice.txt
 
 Licence: Redistributable. See LICENSE.QualcommAtheros_ath10k for details
