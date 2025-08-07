@@ -2516,12 +2516,14 @@ File: amdgpu/gc_12_0_0_rlc.bin
 File: amdgpu/gc_12_0_0_toc.bin
 File: amdgpu/gc_12_0_0_uni_mes.bin
 File: amdgpu/gc_12_0_1_imu.bin
+File: amdgpu/gc_12_0_1_imu_kicker.bin
 File: amdgpu/gc_12_0_1_me.bin
 File: amdgpu/gc_12_0_1_mec.bin
 File: amdgpu/gc_12_0_1_mes1.bin
 File: amdgpu/gc_12_0_1_mes.bin
 File: amdgpu/gc_12_0_1_pfp.bin
 File: amdgpu/gc_12_0_1_rlc.bin
+File: amdgpu/gc_12_0_1_rlc_kicker.bin
 File: amdgpu/gc_12_0_1_toc.bin
 File: amdgpu/gc_12_0_1_uni_mes.bin
 File: amdgpu/dcn_3_1_4_dmcub.bin
