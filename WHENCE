@@ -4426,19 +4426,31 @@ Licence: Redistributable. See LICENSE.bfa for details.
 --------------------------------------------------------------------------
 Driver: qat - Intel(R) QAT crypto accelerator
 
-File: qat_895xcc.bin
-File: qat_895xcc_mmp.bin
-File: qat_c3xxx.bin
-File: qat_c3xxx_mmp.bin
-File: qat_c62x.bin
-File: qat_c62x_mmp.bin
-Link: qat_mmp.bin -> qat_895xcc_mmp.bin
-File: qat_4xxx.bin
-File: qat_4xxx_mmp.bin
-File: qat_402xx.bin
-File: qat_402xx_mmp.bin
-File: qat_420xx.bin
-File: qat_420xx_mmp.bin
+File: intel/qat/qat_895xcc.bin
+Link: qat_895xcc.bin-> intel/qat/qat_895xcc.bin
+File: intel/qat/qat_895xcc_mmp.bin
+Link: qat_895xcc_mmp.bin -> intel/qat/qat_895xcc_mmp.bin
+File: intel/qat/qat_c3xxx.bin
+Link: qat_c3xxx.bin -> intel/qat/qat_c3xxx.bin
+File: intel/qat/qat_c3xxx_mmp.bin
+Link: qat_c3xxx_mmp.bin -> intel/qat/qat_c3xxx_mmp.bin
+File: intel/qat/qat_c62x.bin
+Link: qat_c62x.bin -> intel/qat/qat_c62x.bin
+File: intel/qat/qat_c62x_mmp.bin
+Link: qat_c62x_mmp.bin -> intel/qat/qat_c62x_mmp.bin
+Link: qat_mmp.bin -> intel/qat/qat_895xcc_mmp.bin
+File: intel/qat/qat_4xxx.bin
+Link: qat_4xxx.bin -> intel/qat/qat_4xxx.bin
+File: intel/qat/qat_4xxx_mmp.bin
+Link: qat_4xxx_mmp.bin -> intel/qat/qat_4xxx_mmp.bin
+File: intel/qat/qat_402xx.bin
+Link: qat_402xx.bin -> intel/qat/qat_402xx.bin
+File: intel/qat/qat_402xx_mmp.bin
+Link: qat_402xx_mmp.bin -> intel/qat/qat_402xx_mmp.bin
+File: intel/qat/qat_420xx.bin
+Link: qat_420xx.bin -> intel/qat/qat_420xx.bin
+File: intel/qat/qat_420xx_mmp.bin
+Link: qat_420xx_mmp.bin -> intel/qat/qat_420xx_mmp.bin
 
 Licence: Redistributable. See LICENCE.qat_firmware for details
 
