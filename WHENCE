@@ -4427,7 +4427,7 @@ Licence: Redistributable. See LICENSE.bfa for details.
 Driver: qat - Intel(R) QAT crypto accelerator
 
 File: intel/qat/qat_895xcc.bin
-Link: qat_895xcc.bin-> intel/qat/qat_895xcc.bin
+Link: qat_895xcc.bin -> intel/qat/qat_895xcc.bin
 File: intel/qat/qat_895xcc_mmp.bin
 Link: qat_895xcc_mmp.bin -> intel/qat/qat_895xcc_mmp.bin
 File: intel/qat/qat_c3xxx.bin
