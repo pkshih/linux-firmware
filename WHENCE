@@ -8459,6 +8459,15 @@ Originates from https://github.com/linux-msm/audioreach-topology.git
 
 --------------------------------------------------------------------------
 
+Driver: qcom-qcs8275 - Qualcomm ASoC topology
+File: qcom/qcs8275/MONACO-EVK-tplg.bin
+Version: v0.1.0
+
+Licence: Redistributable. See LICENCE.linaro for details
+Originates from https://github.com/linux-msm/audioreach-topology.git
+
+--------------------------------------------------------------------------
+
 Driver: qcom-qcs9100 - Qualcomm ASoC topology
 File: qcom/qcs9100/LEMANS-EVK-tplg.bin
 Version: v0.1.0
