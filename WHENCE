@@ -6581,6 +6581,11 @@ Link: qcom/qcs6490/adspua.jsn -> ../qcm6490/adspua.jsn
 Link: qcom/qcs6490/battmgr.jsn -> ../qcm6490/battmgr.jsn
 Link: qcom/qcs6490/cdsp.mbn -> ../qcm6490/cdsp.mbn
 Link: qcom/qcs6490/cdspr.jsn -> ../qcm6490/cdspr.jsn
+File: qcom/qcs6490/radxa/dragon-q6a/adsp.mbn
+Version: ADSP.HT.5.5.c8-00217-KODIAK-1
+RawFile: qcom/qcs6490/radxa/dragon-q6a/adspr.jsn
+RawFile: qcom/qcs6490/radxa/dragon-q6a/adsps.jsn
+RawFile: qcom/qcs6490/radxa/dragon-q6a/adspua.jsn
 File: qcom/qcs615/adsp.mbn
 Version: ADSP.VT.5.2.c6-00059-SM6150-1
 RawFile: qcom/qcs615/adspr.jsn
@@ -8449,6 +8454,7 @@ License: Redistributable. See LICENSE.powervr for details
 --------------------------------------------------------------------------
 
 Driver: qcom-qcs6490 - Qualcomm ASoC topology
+File: qcom/qcs6490/QCS6490-Radxa-Dragon-Q6A-tplg.bin
 File: qcom/qcs6490/QCS6490-RB3Gen2-tplg.bin
 Version: v0.1.0
 
