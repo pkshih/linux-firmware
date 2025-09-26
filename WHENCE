@@ -6057,24 +6057,24 @@ File: mediatek/mt7915_eeprom_dbdc.bin
 Version: 20200821
 
 File: mediatek/mt7916_wm.bin
-Version: 20230202145005
+Version: 20240823
 File: mediatek/mt7916_wa.bin
-Version: 20230202143332
+Version: 20240823
 File: mediatek/mt7916_rom_patch.bin
-Version: 20230202144915a
+Version: 20240823
 File: mediatek/mt7916_eeprom.bin
 Version: 20211130
 
 File: mediatek/mt7986_wm.bin
-Version: 20221012174725
+Version: 20240823
 File: mediatek/mt7986_wm_mt7975.bin
-Version: 20221012174805
+Version: 20240823
 File: mediatek/mt7986_wa.bin
-Version: 20221012174937
+Version: 20240823
 File: mediatek/mt7986_rom_patch.bin
-Version: 20221012174648a
+Version: 20240823
 File: mediatek/mt7986_rom_patch_mt7975.bin
-Version: 20221012174743a
+Version: 20240823
 File: mediatek/mt7986_eeprom_mt7976.bin
 Version: 20211105
 File: mediatek/mt7986_eeprom_mt7976_dbdc.bin
@@ -6085,11 +6085,11 @@ File: mediatek/mt7986_eeprom_mt7975_dual.bin
 Version: 20220208
 
 File: mediatek/mt7981_wm.bin
-Version: 20221208201806
+Version: 20240823
 File: mediatek/mt7981_wa.bin
-Version: 20221208202048
+Version: 20240823
 File: mediatek/mt7981_rom_patch.bin
-Version: 20221208201745a
+Version: 20240823
 
 Licence: Redistributable. See LICENCE.mediatek for details.
 
@@ -6243,12 +6243,12 @@ Licence: Redistributable. See LICENCE.mediatek for details.
 Driver: mtk_wed - MediaTek Wireless Ethernet Dispatcher
 
 File: mediatek/mt7986_wo_0.bin
-Version: 20221012175005
+Version: 20240823
 File: mediatek/mt7986_wo_1.bin
-Version: 20221012175032
+Version: 20240823
 
 File: mediatek/mt7981_wo.bin
-Version: 20221208202138
+Version: 20240823
 
 File: mediatek/mt7988/mt7988_wo_0.bin
 Version: 20230218204509
