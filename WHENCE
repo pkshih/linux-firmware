@@ -200,9 +200,9 @@ File: mts_cdma.fw
 File: mts_gsm.fw
 File: mts_edge.fw
 
-Licence: "all firmware components are redistributable in binary form"
-         per support@multitech.com
-	 Copyright (C) 2005 Multi-Tech Systems, Inc.
+Licence: Redistributable. See LICENCE.multitech for details
+
+Copyright (C) 2005 Multi-Tech Systems, Inc.
 
 Found in hex form in ftp://ftp.multitech.com/wireless/wireless_linux.zip
 
