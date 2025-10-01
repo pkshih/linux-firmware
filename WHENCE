@@ -175,7 +175,7 @@ Info: DATE=16.10.2002
 
 Converted from Intel HEX files, used in our binary representation of ihex.
 
-Original licence information: None
+Licence: Unknown
 
 --------------------------------------------------------------------------
 
@@ -1474,8 +1474,8 @@ Driver: yam - YAM driver for AX.25
 File: yam/1200.bin
 File: yam/9600.bin
 
-Licence:
- * (C) F6FBB 1998
+Licence: Unknown
+(C) F6FBB 1998
 
 Found in hex form in kernel source.
 
