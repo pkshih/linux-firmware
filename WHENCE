@@ -4331,7 +4331,7 @@ File: go7007/s2250-2.fw
 Link: s2250.fw -> go7007/s2250-2.fw
 Link: s2250_loader.fw -> go7007/s2250-1.fw
 
-Licence: Redistributable. See LICENCE.go7007-s2250 for details
+Licence: Redistributable. See LICENCE.sensoray for details
 
 File: go7007/go7007fw.bin
 File: go7007/go7007tv.bin
