@@ -6693,18 +6693,18 @@ cdsp.mbn has been converted from 21-cdsp_split/firmware/cdsp.* using
 https://github.com/andersson/pil-squasher
 
 File: qcom/sa8775p/adsp.mbn
-Version: DSP.AT.1.0.1-00125.5-LEMANS-1
+Version: DSP.AT.1.0.1-00163-LEMANS-1
 RawFile: qcom/sa8775p/adspr.jsn
 RawFile: qcom/sa8775p/adspua.jsn
 File: qcom/sa8775p/cdsp0.mbn
-Version: DSP.AT.1.0.1-00125.5-LEMANS-1
+Version: DSP.AT.1.0.1-00163-LEMANS-1
 File: qcom/sa8775p/cdsp1.mbn
-Version: DSP.AT.1.0.1-00125.5-LEMANS-1
+Version: DSP.AT.1.0.1-00163-LEMANS-1
 RawFile: qcom/sa8775p/cdspr.jsn
 File: qcom/sa8775p/gpdsp0.mbn
-Version: DSP.AT.1.0.1-00125.5-LEMANS-1
+Version: DSP.AT.1.0.1-00163-LEMANS-1
 File: qcom/sa8775p/gpdsp1.mbn
-Version: DSP.AT.1.0.1-00125.5-LEMANS-1
+Version: DSP.AT.1.0.1-00163-LEMANS-1
 RawFile: qcom/sa8775p/gpdsp1r.jsn
 RawFile: qcom/sa8775p/gpdspr.jsn
 File: qcom/qcs8300/adsp.mbn
