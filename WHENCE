@@ -6483,6 +6483,7 @@ File: qcom/a630_sqe.fw
 Version: v2.07
 File: qcom/sdm845/a630_zap.mbn
 File: qcom/a650_gmu.bin
+Version: v2.1.8
 File: qcom/a650_sqe.fw
 Version: v1.12
 File: qcom/sm8250/a650_zap.mbn
