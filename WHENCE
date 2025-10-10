@@ -4215,7 +4215,7 @@ File: intel/ibt-0093-4150.sfi
 File: intel/ibt-0093-4150.ddc
 File: intel/ibt-0093-1050.sfi
 File: intel/ibt-0093-1050.ddc
-Version: BT_BlazarU_S_REL87482_23.150.25254.87482
+Version: BT_BlazarU_S_REL91726_23.160.25341.91726
 
 File: intel/ibt-0180-0041.sfi
 File: intel/ibt-0180-0041.ddc
@@ -4223,7 +4223,7 @@ File: intel/ibt-0180-4150.sfi
 File: intel/ibt-0180-4150.ddc
 File: intel/ibt-0180-1050.sfi
 File: intel/ibt-0180-1050.ddc
-Version: BT_Magnetar_REL103831_23.50.25133.103831
+Version: BT_Magnetar_REL103882_23.50.25205.103882
 
 File: intel/ibt-0190-0291.sfi
 File: intel/ibt-0190-0291-iml.sfi
@@ -4239,7 +4239,7 @@ File: intel/ibt-0190-0291-pci.ddc
 File: intel/ibt-0190-0291-pci.sfi
 File: intel/ibt-0190-0291-usb.ddc
 File: intel/ibt-0190-0291-usb.sfi
-Version: BT_BlazarI_S_REL95112_23.150.25254.95112
+Version: BT_BlazarI_S_REL99289_23.160.25341.99289
 
 Licence: Redistributable. See LICENCE.ibt_firmware for details
 
