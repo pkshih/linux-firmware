@@ -8740,6 +8740,8 @@ License: Redistributable. See LICENSE.qcom and qcom/NOTICE.txt for details
 Driver: ish - Intel Integrated Sensor Hub
 File: intel/ish/ish_lnlm.bin
 Version: 5.8.0.7716
+File: intel/ish/ish_ptl.bin
+Version: 5.8.1.7778
 
 License: Redistributable. See LICENSE.intel for details
 
