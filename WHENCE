@@ -6409,7 +6409,8 @@ File: qcom/vpu/vpu20_p1_gen2.mbn
 
 Version: VIDEO.VPU.2.4.2-00025
 
-File: qcom/vpu/vpu30_p4.mbn
+File: qcom/vpu/vpu30_p4_s7.mbn
+Link: qcom/vpu/vpu30_p4.mbn -> vpu30_p4_s7.mbn
 
 Version: VIDEO.VPU.3.1-0096
 
@@ -6421,11 +6422,13 @@ File: qcom/vpu/vpu30_p4_s6_16mb.mbn
 
 Version: VIDEO.VPU.3.1-0093
 
-File: qcom/vpu/vpu33_p4.mbn
+File: qcom/vpu/vpu33_p4_s7.mbn
+Link: qcom/vpu/vpu33_p4.mbn -> vpu33_p4_s7.mbn
 
 Version: VIDEO.VPU.3.4-0054
 
-File: qcom/vpu/vpu35_p4.mbn
+File: qcom/vpu/vpu35_p4_s7.mbn
+Link: qcom/vpu/vpu35_p4.mbn -> vpu35_p4_s7.mbn
 
 Version: VIDEO.VPU.3.5-0040
 
