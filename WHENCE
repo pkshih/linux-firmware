@@ -8430,10 +8430,11 @@ Originates from https://github.com/nxp-imx/imx-firmware/tree/lf-6.1.22_2.0.0/nxp
 Driver: qcom-sc8280xp - Qualcomm ASoC tplg Firmware
 File: qcom/sc8280xp/LENOVO/21BX/audioreach-tplg.bin
 Link: qcom/sc8280xp/SC8280XP-LENOVO-X13S-tplg.bin -> LENOVO/21BX/audioreach-tplg.bin
-Version: v0.1.0
+Version: v1.0.0
+Info: DATE=15.10.2025
 
 Licence: Redistributable. See LICENCE.linaro for details
-Originates from https://git.linaro.org/people/srinivas.kandagatla/audioreach-topology.git
+Originates from https://github.com/linux-msm/audioreach-topology.git
 --------------------------------------------------------------------------
 
 Driver: amlogic - Amlogic SoC Firmware
@@ -8497,7 +8498,8 @@ Originates from https://github.com/linux-msm/audioreach-topology.git
 Driver: qcom-sm8550 - Qualcomm ASoC tplg Firmware
 File: qcom/sm8550/SM8550-HDK-tplg.bin
 File: qcom/sm8550/SM8550-QRD-tplg.bin
-Version: v0.1.0
+Version: v1.0.0
+Info: DATE=15.10.2025
 
 Licence: Redistributable. See LICENCE.linaro for details
 Originates from https://git.codelinaro.org/linaro/qcomlt/audioreach-topology.git
@@ -8507,7 +8509,8 @@ Originates from https://git.codelinaro.org/linaro/qcomlt/audioreach-topology.git
 Driver: qcom-sm8650 - Qualcomm ASoC tplg Firmware
 File: qcom/sm8650/SM8650-QRD-tplg.bin
 File: qcom/sm8650/SM8650-MTP-tplg.bin
-Version: v0.1.0
+Version: v1.0.0
+Info: DATE=15.10.2025
 
 Licence: Redistributable. See LICENCE.linaro for details
 Originates from https://git.codelinaro.org/linaro/qcomlt/audioreach-topology.git
@@ -8517,13 +8520,13 @@ Originates from https://git.codelinaro.org/linaro/qcomlt/audioreach-topology.git
 Driver: qcom-x1e80100 - Qualcomm ASoC tplg Firmware
 File: qcom/x1e80100/LENOVO/21N1/X1E80100-LENOVO-Thinkpad-T14s-tplg.bin
 Link: qcom/x1e80100/X1E80100-LENOVO-Thinkpad-T14s-tplg.bin -> LENOVO/21N1/X1E80100-LENOVO-Thinkpad-T14s-tplg.bin
-Version: v0.1.0
-Info: DATE=17.03.2025
+Version: v1.0.0
+Info: DATE=15.10.2025
 
 File: qcom/x1e80100/LENOVO/83ED/X1E80100-LENOVO-Yoga-Slim7x-tplg.bin
 Link: qcom/x1e80100/X1E80100-LENOVO-Yoga-Slim7x-tplg.bin -> LENOVO/83ED/X1E80100-LENOVO-Yoga-Slim7x-tplg.bin
-Version: v0.1.0
-Info: DATE=17.03.2025
+Version: v1.0.0
+Info: DATE=15.10.2025
 
 File: qcom/x1e80100/X1E80100-EVK-tplg.bin
 Version: v0.1.0
