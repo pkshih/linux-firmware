@@ -1398,7 +1398,7 @@ File: intel/ipu/ipu7_fw.bin
 Version: master_release_20240628_1854
 
 File: intel/ipu/ipu7ptl_fw.bin
-Version: master_release_20250515_1232
+Version: master_release_20250515_1232_ProductSigned
 
 Licence: Redistributable. See LICENSE.intel for details
 
