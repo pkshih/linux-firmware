@@ -62,13 +62,13 @@ Microcode patches in microcode_amd_fam19h.bin:
   Family=0x19 Model=0x7c Stepping=0x00: Patch=0x0a70c008 Length=5568 bytes
   Family=0x19 Model=0xa0 Stepping=0x01: Patch=0x0aa00116 Length=5568 bytes
   Family=0x19 Model=0xa0 Stepping=0x02: Patch=0x0aa0021c Length=5568 bytes
-    Minimum base ucode version for loading: 0x0aa00219
+    Minimum base ucode version for loading: 0x0aa00218
 
 Microcode patches in microcode_amd_fam1ah.bin:
   Family=0x1a Model=0x02 Stepping=0x01: Patch=0x0b002151 Length=14368 bytes
     Minimum base ucode version for loading: 0x0b002140
   Family=0x1a Model=0x11 Stepping=0x00: Patch=0x0b10104e Length=14368 bytes
-    Minimum base ucode version for loading: 0x0b001040
+    Minimum base ucode version for loading: 0x0b101040
 
 NOTE: For Genoa (Family=0x19 Model=0x11) and Bergamo (Family=0x19 Model=0xa0),
 either AGESA version >= 1.0.0.8 OR a kernel with the following commit is
