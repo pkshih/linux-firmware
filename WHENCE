@@ -6110,9 +6110,9 @@ Licence: Redistributable. See LICENCE.mediatek for details.
 Driver: mt7920 - MediaTek MT7920 Wireless MACs
 
 File: mediatek/WIFI_MT7961_patch_mcu_1a_2_hdr.bin
-Version: 20250210151004a
+Version: 20251020150843a
 File: mediatek/WIFI_RAM_CODE_MT7961_1a.bin
-Version: 20250210150855
+Version: 20251020151401
 
 Licence: Redistributable. See LICENCE.mediatek for details.
 
