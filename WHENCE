@@ -6583,6 +6583,13 @@ File: qcom/apq8096/mba.mbn
 File: qcom/apq8096/modem.mbn
 Version: MPSS.TH.2.0.1-00481
 RawFile: qcom/apq8096/modemr.jsn
+File: qcom/kaanapali/adsp.mbn
+File: qcom/kaanapali/adsp_dtb.mbn
+Version: LPAIDSP.HT.1.2-00769-KAANAPALI-1
+RawFile: qcom/kaanapali/adspr.jsn
+RawFile: qcom/kaanapali/adsps.jsn
+RawFile: qcom/kaanapali/adspua.jsn
+RawFile: qcom/kaanapali/adspuo.jsn
 File: qcom/kaanapali/cdsp.mbn
 File: qcom/kaanapali/cdsp_dtb.mbn
 Version: CDSP.HT.3.2-00684-KAANAPALI-1
